@@ -49,7 +49,7 @@ PyMuPDF
 pySmartDL
 python-barcode
 python-dotenv
-pytgcalls
+py-tgcalls
 pytz
 qrcode
 randomstuff.py
