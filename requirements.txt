@@ -35,6 +35,7 @@ moviepy
 nekos.py
 opencv-python-headless
 Pillow
+pragma
 prettytable
 psutil
 psycopg2
