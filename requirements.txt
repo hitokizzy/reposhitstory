@@ -50,8 +50,9 @@ PyMuPDF
 pySmartDL
 python-barcode
 python-dotenv
-py-tgcalls
+pytgcalls
 pytz
+python-arq
 qrcode
 randomstuff.py
 regex
